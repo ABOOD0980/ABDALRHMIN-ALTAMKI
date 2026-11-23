@@ -1,0 +1,6 @@
+{
+  "name": "Vante — Craft in Motion",
+  "description": "محفظة أعمال استوديو حيث ينساب شريط من أعمال الفيديو المباشر عبر الفضاء، ثم يستقر في شبكة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
